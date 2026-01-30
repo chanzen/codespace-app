@@ -1,0 +1,24 @@
+# Ignore virtual environments
+.venv/
+venv/
+.ipynb_checkpoints/
+
+
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore environment variables
+.env
